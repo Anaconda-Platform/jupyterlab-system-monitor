@@ -1,15 +1,15 @@
 {
   "name": "jupyterlab-system-monitor",
-  "version": "0.4.0",
+  "version": "0.5.4",
   "description": "JupyterLab extension to display system information",
   "keywords": [
     "jupyter",
     "jupyterlab",
     "jupyterlab-extension"
   ],
-  "homepage": "https://github.com/jtpio/jupyterlab-system-monitor",
+  "homepage": "https://github.com/AnacondaPlatform/jupyterlab-system-monitor",
   "bugs": {
-    "url": "https://github.com/jtpio/jupyterlab-system-monitor/issues"
+    "url": "https://github.com/AnacondaPlatform/jupyterlab-system-monitor/issues"
   },
   "license": "BSD-3-Clause",
   "author": "Jeremy Tuloup",
@@ -22,7 +22,7 @@
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jtpio/jupyterlab-system-monitor.git"
+    "url": "https://github.com/AnacondaPlatform/jupyterlab-system-monitor.git"
   },
   "scripts": {
     "build": "tsc",

@@ -112,9 +112,9 @@ export class MemoryView extends VDomRenderer<MemoryModel> {
     return (
       <div
         className="jp-MemoryContainer"
-        style={percentage && { width: "200px" }}
+        style={percentage && { width: "800px" }}
       >
-        <div className="jp-MemoryText">Mem: </div>
+        <div className="jp-MemoryText">Total Session Memory: </div>
         <div className="jp-MemoryWrapper">
           {percentage && <MemoryBar data={values} percentage={percentage} />}
         </div>
